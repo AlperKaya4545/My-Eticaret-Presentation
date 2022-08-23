@@ -1,0 +1,15 @@
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.Entites\bin\Debug\net5.0\BenimProjem.Entites.deps.json
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.Entites\bin\Debug\net5.0\BenimProjem.Entites.dll
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.Entites\bin\Debug\net5.0\ref\BenimProjem.Entites.dll
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.Entites\bin\Debug\net5.0\BenimProjem.Entites.pdb
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.Entites\bin\Debug\net5.0\BenimProjem.Core.dll
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.Entites\bin\Debug\net5.0\BenimProjem.Core.pdb
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.Entites\obj\Debug\net5.0\BenimProjem.Entites.csproj.AssemblyReference.cache
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.Entites\obj\Debug\net5.0\BenimProjem.Entites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.Entites\obj\Debug\net5.0\BenimProjem.Entites.AssemblyInfoInputs.cache
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.Entites\obj\Debug\net5.0\BenimProjem.Entites.AssemblyInfo.cs
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.Entites\obj\Debug\net5.0\BenimProjem.Entites.csproj.CoreCompileInputs.cache
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.Entites\obj\Debug\net5.0\BenimProjem.Entites.csproj.CopyComplete
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.Entites\obj\Debug\net5.0\BenimProjem.Entites.dll
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.Entites\obj\Debug\net5.0\ref\BenimProjem.Entites.dll
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.Entites\obj\Debug\net5.0\BenimProjem.Entites.pdb

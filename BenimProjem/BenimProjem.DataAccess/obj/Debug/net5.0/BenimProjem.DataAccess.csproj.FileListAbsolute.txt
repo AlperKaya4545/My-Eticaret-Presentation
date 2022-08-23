@@ -1,0 +1,17 @@
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.DataAccess\bin\Debug\net5.0\BenimProjem.DataAccess.deps.json
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.DataAccess\bin\Debug\net5.0\BenimProjem.DataAccess.dll
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.DataAccess\bin\Debug\net5.0\ref\BenimProjem.DataAccess.dll
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.DataAccess\bin\Debug\net5.0\BenimProjem.DataAccess.pdb
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.DataAccess\bin\Debug\net5.0\BenimProjem.Core.dll
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.DataAccess\bin\Debug\net5.0\BenimProjem.Entites.dll
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.DataAccess\bin\Debug\net5.0\BenimProjem.Core.pdb
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.DataAccess\bin\Debug\net5.0\BenimProjem.Entites.pdb
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.DataAccess\obj\Debug\net5.0\BenimProjem.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.DataAccess\obj\Debug\net5.0\BenimProjem.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.DataAccess\obj\Debug\net5.0\BenimProjem.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.DataAccess\obj\Debug\net5.0\BenimProjem.DataAccess.AssemblyInfo.cs
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.DataAccess\obj\Debug\net5.0\BenimProjem.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.DataAccess\obj\Debug\net5.0\BenimProjem.DataAccess.csproj.CopyComplete
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.DataAccess\obj\Debug\net5.0\BenimProjem.DataAccess.dll
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.DataAccess\obj\Debug\net5.0\ref\BenimProjem.DataAccess.dll
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.DataAccess\obj\Debug\net5.0\BenimProjem.DataAccess.pdb

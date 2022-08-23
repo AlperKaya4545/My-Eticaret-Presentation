@@ -1,0 +1,63 @@
+﻿@{
+    Layout = "_BasketLayout";
+}
+@model BasketIndexViewModel
+
+<div class="Shopping-cart-area pt-60 pb-60">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <form action="#">
+                    <div class="table-content table-responsive">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th class="li-product-remove">remove</th>
+                                    <th class="li-product-thumbnail">images</th>
+                                    <th class="cart-product-name">Product</th>
+                                    <th class="li-product-price">Unit Price</th>
+                                    <th class="li-product-quantity">Quantity</th>
+                                    <th class="li-product-subtotal">Total</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model.Basket.BasketProducts)
+                               {
+                                   <tr>
+                                    <td class="li-product-remove"><a href="/#"><i class="fa fa-times"></i></a></td>
+                                    <td class="li-product-thumbnail"><a href="/#"><img src="/product/large-size/@item.Image"alt="Li's Product Image"></a></td>
+                                    <td class="li-product-name"><a href="/#">@item.Product.Name</a></td>
+                                    <td class="li-product-price"><span class="amount">@item.Product.Price</span></td>
+                                    <td class="quantity">
+                                        <label>Quantity</label>
+                                        <div class="cart-plus-minus">
+                                            <input class="cart-plus-minus-box" value="@item.Quantity" type="text">
+                                            <div class="dec qtybutton"><i class="fa fa-angle-down" onlick="window.locaiton='/basket/dec qtybutton/@item.ProductId';"></i></div>
+                                            <div class="inc qtybutton"><i class="fa fa-angle-up" onlick="window.locaiton='/basket/inc qtybutton/@item.ProductId';"></i></div>
+                                        </div>
+                                    </td>
+                                    <td class="product-subtotal"><span class="amount">@Html.Raw(item.Quantity * item.Product.Price)</span></td>
+                                </tr>
+                               }
+                                
+
+                            </tbody>
+                        </table>
+                    </div>
+                   
+                    <div class="row">
+                        <div class="col-md-5 ml-auto">
+                            <div class="cart-page-total">
+                                <h2>Cart totals</h2>
+                                <ul>
+                                    <li>Subtotal <span>@Html.Raw(Model.Basket.BasketProducts.Sum(x => x.Quantity * x.Product.Price))</span></li>                                    
+                                </ul>
+                                <a href="/order" onlick="window.locaiton='/order'">Proceed to checkout</a>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

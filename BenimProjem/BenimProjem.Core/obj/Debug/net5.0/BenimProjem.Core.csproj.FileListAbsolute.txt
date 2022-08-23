@@ -1,0 +1,12 @@
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.Core\bin\Debug\net5.0\BenimProjem.Core.deps.json
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.Core\bin\Debug\net5.0\BenimProjem.Core.dll
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.Core\bin\Debug\net5.0\ref\BenimProjem.Core.dll
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.Core\bin\Debug\net5.0\BenimProjem.Core.pdb
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.Core\obj\Debug\net5.0\BenimProjem.Core.csproj.AssemblyReference.cache
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.Core\obj\Debug\net5.0\BenimProjem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.Core\obj\Debug\net5.0\BenimProjem.Core.AssemblyInfoInputs.cache
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.Core\obj\Debug\net5.0\BenimProjem.Core.AssemblyInfo.cs
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.Core\obj\Debug\net5.0\BenimProjem.Core.csproj.CoreCompileInputs.cache
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.Core\obj\Debug\net5.0\BenimProjem.Core.dll
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.Core\obj\Debug\net5.0\ref\BenimProjem.Core.dll
+C:\Users\ALPER\Desktop\deneme\BenimProjem\BenimProjem.Core\obj\Debug\net5.0\BenimProjem.Core.pdb

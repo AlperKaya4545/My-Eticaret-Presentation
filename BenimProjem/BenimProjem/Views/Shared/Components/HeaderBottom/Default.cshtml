@@ -1,0 +1,32 @@
+﻿@using BenimProjem.Entites
+@model List<Category>
+<div class="header-bottom header-sticky d-none d-lg-block d-xl-block">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <!-- Begin Header Bottom Menu Area -->
+                <div class="hb-menu">
+                    <nav>
+                        <ul>
+                            @foreach (var item in Model)
+                            {
+                                 
+                                <li class=""><a href="/category/@item.SeoName">@item.Name</a></li>
+                            }
+
+                            @*kendi yaptığımız sql tablosundan menü kısmını düzenledik*@
+
+
+                            <li class="dropdown-holder">
+                                
+                                
+                            </li>
+
+                        </ul>
+                    </nav>
+                </div>
+                <!-- Header Bottom Menu Area End Here -->
+            </div>
+        </div>
+    </div>
+</div>
